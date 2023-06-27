@@ -1,10 +1,10 @@
 {
     "name": "Pixel City",
-    "description": "A theme of Pixel City animated background. DARK MODE REQUIRED!",
+    "description": "i made it a bit more readable text :) DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "Wzy#0211",
-            "id": "711443625580036128"
+            "name": "y#211",
+            "id": "711440036128"
         }
     ],
     "semanticColors": {
@@ -21,7 +21,7 @@
             "#b0b0b0"
         ],
         "TEXT_LINK": [
-            "#4c7f90"
+            "#7bd1ed"
         ],
         "TEXT_DANGER": [
             "#4c7f90"
