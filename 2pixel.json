@@ -3,7 +3,7 @@
     "description": "i made it a bit more readable text :) DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "y#211",
+            "name": "pe",
             "id": "711440036128"
         }
     ],
@@ -24,7 +24,7 @@
             "#5ed7ff"
         ],
         "TEXT_DANGER": [
-            "#4c7f90"
+            "#5ed7ff"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
